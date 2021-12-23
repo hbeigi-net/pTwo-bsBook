@@ -1,0 +1,59 @@
+@font-face {
+    font-family: iran-sans;
+    src: url("../fonts/iran-sans/IRANSansWeb900.woff");
+    font-weight: bolder;
+}
+
+@font-face {
+    font-family: iran-sans;
+    src: url("../fonts/iran-sans/IRANSansWeb200.woff");
+    font-weight: lighter;
+}
+@font-face {
+    font-family: iran-sans;
+    src: url("../fonts/iran-sans/IRANSansWeb300.woff");
+    font-weight:normal;
+}
+@font-face {
+    font-family: iran-sans;
+    src: url("../fonts/iran-sans/IRANSansWeb400.woff");
+    font-weight: 400;
+}
+@font-face {
+    font-family: iran-sans;
+    src: url("../fonts/iran-sans/IRANSansWeb500.woff");
+    font-weight: bold;
+}
+@font-face {
+    font-family: iran-sans;
+    src: url("../fonts/iran-sans/IRANSansWeb600.woff");
+    font-weight: 600;
+}
+
+body{
+    font-family: iran-sans;
+   
+}
+#intro_sction{
+    background: url("../image/mountains.jpg");
+}
+.blue-lay{
+    background-color: rgba(0, 17, 255, 0.164);
+    padding-top: 150px !important;
+    padding-bottom: 40px !important;
+}
+.max-w{
+    max-width: 700px;
+}
+.max-w-2{
+    max-width: 850px;
+}
+.bg-custom-1{
+    background-color:  rgba(0, 17, 255, 0.164);
+}
+.mt-minus{
+    margin-top:-20px;
+}
+.animate__animated{
+    animation-duration: 2s;
+}
